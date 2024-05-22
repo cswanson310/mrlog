@@ -39,3 +39,4 @@ gimli = { version = "0.26.1", default-features = false, features = ["read"] }
 # rental = "0.5.5"
 ouroboros = "0.15.0"
 
+lazy_static = "1.4"
